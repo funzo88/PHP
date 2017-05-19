@@ -1,0 +1,29 @@
+body {
+	font-family: verdana;
+	text-align: center;
+}
+.tabel {
+	display: table;
+	margin: auto;
+}
+.header {
+	background: #ccc;
+}
+td {
+	padding: 3px 6px;
+}
+ul{
+	float: left;
+	text-align: left;
+	list-style: none;
+}
+a {
+	color: black;
+	text-decoration: none;
+	background: #ccc;
+	display: block;
+	padding: 5px;
+}
+a:hover {
+	background: #eee;
+}
