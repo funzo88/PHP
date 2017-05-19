@@ -1,0 +1,1 @@
+SELECT * FROM `orderdetails` WHERE `productCode` = 'S18_2248'
